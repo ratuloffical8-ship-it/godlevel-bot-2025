@@ -1,5 +1,5 @@
-python-telegram-bot>=20.0
+quotexapi==1.0.17
+python-telegram-bot==20.7
 pandas
-pandas-ta
 ccxt
-pyquotex
+requests
